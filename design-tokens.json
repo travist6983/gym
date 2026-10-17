@@ -1,0 +1,39 @@
+{
+  "$source": "Computed styles from https://hardworxgym.com (GoDaddy Website Builder 8), sampled 2026-10-17. Reds sampled from the client's own logo files.",
+  "color": {
+    "brand": {
+      "black": { "value": "#000000", "use": "page background, header, footer" },
+      "red": { "value": "#E82226", "use": "red in the eagle header logo (image_123650291.JPG), dominant pixel" },
+      "red-mark": { "value": "#E8355C", "use": "red in the circular HARDWORX flexing-H mark (favicon), samples #E3395C / #EB355C" },
+      "red-signage": { "value": "#DA2B34", "use": "photographed red H wall sign; reference only, matches equipment red" },
+      "white": { "value": "#FFFFFF", "use": "button background, social band" }
+    },
+    "neutral": {
+      "gray-950": { "value": "#161616", "use": "dark surface (b:rgb(22,22,22))" },
+      "gray-900": { "value": "#1B1B1B", "use": "text on light (c:rgb(27,27,27))" },
+      "gray-800": { "value": "#303030", "use": "button label (c:rgb(48,48,48))" },
+      "gray-500": { "value": "#808080", "use": "muted" },
+      "gray-450": { "value": "#919191", "use": "footer copyright" },
+      "gray-400": { "value": "#969696", "use": "secondary text" },
+      "gray-350": { "value": "#A4A4A4", "use": "secondary text" },
+      "gray-250": { "value": "#C6C6C6", "use": "dividers" },
+      "gray-100": { "value": "#E2E2E2", "use": "primary text on black (h1, body, nav)" },
+      "gray-50": { "value": "#F6F6F6", "use": "light surface" },
+      "gray-25": { "value": "#F7F7F7", "use": "icon / link text on black" }
+    }
+  },
+  "font": {
+    "display": { "family": "Fjalla One", "weight": 400, "transform": "uppercase", "source": "Google Fonts", "use": "H1 64px, section headings" },
+    "body": { "family": "Source Sans Pro (Google: Source Sans 3)", "weights": [400, 700], "source": "Google Fonts", "use": "body 24px hero sub, nav 18px / ls 1.134px, buttons 18px/700" }
+  },
+  "component": {
+    "button": { "background": "#FFFFFF", "color": "#303030", "font": "Source Sans Pro 700 18px", "letterSpacing": "1.134px (0.063em)", "radius": "0", "padding": "8px 32px", "transform": "uppercase (copy is uppercase)" },
+    "nav-link": { "color": "#E2E2E2", "font": "Source Sans Pro 400 18px", "letterSpacing": "1.134px", "active": "1px underline" },
+    "h1": { "font": "Fjalla One 400 64px", "color": "#E2E2E2", "transform": "uppercase", "accent": "1px vertical rule left of hero copy" }
+  },
+  "brand-assets": {
+    "logo-primary": "public/assets/brand/logo-eagle.jpg (eagle + HARDWORX LIFESTYLE GYM + STRENGTH·COURAGE·FREEDOM, on black)",
+    "logo-primary-transparent": "public/assets/brand/logo-eagle.png (black keyed out)",
+    "logo-mark": "public/assets/brand/logo-h-circle.png (HARDWORX ring with flexing-arm H)"
+  }
+}

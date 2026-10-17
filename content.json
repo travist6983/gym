@@ -1,0 +1,164 @@
+{
+  "$source": "Verbatim copy from https://hardworxgym.com and its nav pages, extracted 2026-10-17. 'page' marks where each block lives today. Typos are preserved here; fixes are listed under 'typo_fixes'.",
+  "meta": { "title": "Join the 300 Club Today", "description": null, "favicon": "assets/brand/logo-h-circle.png" },
+
+  "nav": {
+    "logo": { "img": "assets/brand/logo-eagle.jpg", "href": "https://hardworxgym.com/" },
+    "links": [
+      { "text": "Home", "href": "https://hardworxgym.com/" },
+      { "text": "Memberships", "href": "https://hardworxgym.com/memberships" },
+      { "text": "Workout Plans & Training", "href": "https://hardworxgym.com/workout-plans-%26-training" },
+      { "text": "About Us", "href": "https://hardworxgym.com/about-us" },
+      { "text": "FAQ", "href": "https://hardworxgym.com/faq" },
+      { "text": "Reviews", "href": "https://hardworxgym.com/reviews" },
+      { "text": "Shop", "href": "https://hardworxgym.com/shop" }
+    ],
+    "more": [
+      { "text": "Purchase Membership Here!", "href": "https://exercise.hardworxgym.com/packages/54417/purchase/" },
+      { "text": "1-Month PIF Membership", "href": "https://exercise.hardworxgym.com/packages/27775/purchase/" },
+      { "text": "12-Month PIF!", "href": "https://exercise.hardworxgym.com/packages/46686/purchase/" }
+    ],
+    "utility": {
+      "search": { "placeholder": "Search Products", "name": "keywords" },
+      "cart": "https://hardworxgym.com/shop",
+      "account": [
+        { "text": "Sign In", "href": "https://hardworxgym.com/m/account" },
+        { "text": "Create Account", "href": "https://hardworxgym.com/m/create-account" },
+        { "text": "Bookings", "href": "https://hardworxgym.com/m/bookings" },
+        { "text": "Orders", "href": "https://hardworxgym.com/m/orders" },
+        { "text": "My Account", "href": "https://hardworxgym.com/m/account" }
+      ]
+    }
+  },
+
+  "sections": [
+    {
+      "id": "hero", "page": "home",
+      "h1": "HardWorx Gym",
+      "p": "OPEN 24/7 FOR HARDWORX GYM MEMBERS",
+      "ctas": [
+        { "text": "JOIN NOW", "href": "https://exercise.hardworxgym.com/packages/54417/purchase/", "primary": true },
+        { "text": "FREE DAY PASS", "href": "https://exercise.hardworxgym.com/packages/25835/purchase/" }
+      ],
+      "contact": { "label": "CONTACT US:", "text": "(586) 262-4772", "href": "tel:5862624772" },
+      "image": { "src": "assets/img/hero-hex.webp", "alt": "" }
+    },
+    {
+      "id": "about", "page": "about-us",
+      "h1": "About Hardworx",
+      "blocks": [
+        { "h4": "Our Vision / Mission", "p": "HardWorx is designed for people to maximize their workout in a timely manner, while enhancing their potential within themselves. Time is Money & we focus on having an environment where our members are no longer waiting for equipment & are having to extend their workouts longer than originally wanted. We emphasize the cleanliness of our Gym, Customer Service, & Strong Community to ensure you have the best experience. We cap our membership at 500 members to ensure there are no crowds.", "image": { "src": "assets/img/floor-racks.webp", "alt": "Modern gym with red and black weightlifting equipment and racks." } },
+        { "h4": "Facilities", "p": "At HardWorx, we offer a variety of State-Of-The-Art Equipment. This includes Cardio Machines, Pin-Stack and Plate Loaded, Arsenal, Atlantis, PowerLift, Hammer Strength, Cybex, and Panatta Machines, along with a large selection of Free Weights to meet the wants and needs for all fitness backgrounds. We also have Infrared Saunas, Two Tanning Salons, and  Cold Plunge All Included in the Membership Price!", "image": { "src": "assets/img/floor-wide.webp", "alt": "Spacious gym with red and black weightlifting equipment." } }
+      ],
+      "numbers": ["24/7", "500 members (cap)", "Two Tanning Salons"]
+    },
+    {
+      "id": "training", "page": "workout-plans-&-training",
+      "h1": "Workout Plans & Programs",
+      "p": "At HardWorx Gym, we take pride in being the best health and wellness home for individuals of all fitness levels. One of the biggest concerns most people have when they step foot in the gym is knowing what exercises to do, what order to do them in, and how many sets and repetitions are necessary to reach the desired goals. Here at HardWorx, we strive to eliminate that issue all together. Through the use of the HardWorx App, members will have a platform to view their custom workouts, log their weights and repetitions to keep track of progress, along with access to an extensive database of videos of all the different exercises you will complete on a day to day basis.",
+      "image": { "src": "assets/img/bench-spot.webp", "alt": "Man lifting dumbbells on bench press with trainer spotting him." }
+    },
+    {
+      "id": "memberships", "page": "memberships",
+      "h1": "Recurring Memberships",
+      "sub": "Come In Today to Sign Up!",
+      "plans": [
+        { "h4": "HardWorx Gym Membership (Recurring)", "price": "$ 79", "features": ["24/7 Access to the Facility", "Access to the HardWorx App to Track Workouts and Progress", "Recurring Membership"], "href": "https://exercise.hardworxgym.com/packages/54417/purchase/" },
+        { "group_h3": "Paid In Full (PIF) Memberships", "group_sub": "Pay Up Front and SAVE BIG", "group_sub2": "Come In Today to Sign Up!" },
+        { "h4": "HardWorx 12 Month Paid In Full (PIF) Gym Membership", "price": "$ 850", "features": ["24/7 Access to the Facility", "Access to the HardWorx App to Track Workouts and Progress"], "href": "https://exercise.hardworxgym.com/packages/46686/purchase/" },
+        { "h4": "HardWorx 1 Month Paid In Full (PIF) Gym Membership (Non-recurring)", "price": "$ 150", "features": ["24/7 Access to the Facility", "Access to the HardWorx App to Track Workouts and Progress"], "href": "https://exercise.hardworxgym.com/packages/27775/purchase/" }
+      ],
+      "notice": "*Recurring Memberships Will Auto Renew at the Start of Each Month*",
+      "numbers": ["$79", "$850", "$150", "12 Month", "1 Month"]
+    },
+    {
+      "id": "updates", "page": "reviews",
+      "h2": "About Us",
+      "blocks": [
+        { "h4": "New Section... Just for Legs!", "p": "Coming October, 2025", "image": { "src": "assets/img/legs-sign.webp", "alt": "" }, "note": "Date has passed (today 2026-10-17). Ask client whether the legs section is open before showing 'Coming'." },
+        { "h4": "New Merchandise!", "p": "Swing In and Grab Your Merch!", "image": { "src": "assets/img/merch.webp", "alt": "" } },
+        { "h4": "Family-Friendly Environment", "p": "At HardWorx, we offer the latest fitness technology and equipment. Our gym is designed to help you achieve your fitness goals efficiently and effectively.", "image": { "src": "assets/img/hardworx-sign.webp", "alt": "" } }
+      ]
+    },
+    {
+      "id": "reviews", "page": "reviews",
+      "h2": "Reviews",
+      "source": "GoDaddy reviews widget on /reviews, 5 stars each (15 star icons across 3 cards)",
+      "items": [
+        { "name": "Mindi", "date": "10/1/2025", "stars": 5, "text": "Everything about hardworx is top notch! Amazing equipment, an awesome community, with a clean welcoming environment. Owner and staff are awesome as well. You're missing out if you're not a member!" },
+        { "name": "Jeff", "date": "9/25/2025", "stars": 5, "text": "Gym is always clean, equipment is well maintained, staff is friendly. Lots of plates for free weights, and a large assortment of dumbbells. Tons of machines that can use plates or pinned stacked weights for all the major muscle groups. Looking forward to the expansion that offers even more." },
+        { "name": "Steve", "date": "9/23/2025", "stars": 5, "text": "Hardworx is a private environment built for people who want to train. The space is clean, intentional, an equipped with everything you need to push yourself, no fluff, no distractions. What sets it apart is the atmosphere. It's motivating without being overwhelming, supportive without being crowded. If you're ready to commit to something beyond a casual gym membership, this is the place." }
+      ]
+    },
+    {
+      "id": "faq", "page": "faq",
+      "h1": "Frequently Asked Questions",
+      "intro": "Feel free to reach out to us by phone at (586) 262-4772 or by email at Manager.shelby23@hardworxgym.com if you cannot find an answer to your question.",
+      "items": [
+        { "q": "What are your hours of operation?", "a": "We are open 24/7 for HardWorx Members. If you would like to see our Staff Hours, please click the \"About Us\" Tab." },
+        { "q": "What type of equipment do you offer?", "a": "We offer cardio equipment, pin, and plate loaded machines. We also offer a variety of Free Weights. We offer Equipment from Multiple Different Companies: True Fitness, Cybex, Hammer Strength, Arsenal, Muscle D, Panatta & Atlantis Equipment." },
+        { "q": "Do you have locker rooms and showers?", "a": "We have a large space of lockers for all members. We have 6 private restrooms and 3 showers." },
+        { "q": "What is the guest policy?", "a": "Members may bring Guests for Visits and Trials during STAFFED HOURS ONLY. There are NO Guests allowed in the Facility under any circumstances during Non-Staffed Hours.", "notice": true }
+      ],
+      "numbers": ["6 private restrooms", "3 showers"]
+    },
+    {
+      "id": "contact", "page": "about-us",
+      "h2": "Contact Us",
+      "h4": "Better yet, see us in person!",
+      "p": "Schedule an appointment or stop in any time during staffed hours and check out our brand new facility today!",
+      "business": "HardWorx Gym",
+      "address": "50662 Van Dyke Avenue, Shelby Township, Michigan 48317, United States",
+      "directions": "https://www.google.com/maps/search/?api=1&query=50662+Van+Dyke+Avenue+Shelby+Township+MI+48317",
+      "phone": { "label": "Reach us by phone during staffed hours:", "text": "586-262-4772", "href": "tel:5862624772" },
+      "email": { "label": "By Email:", "text": "Manager.shelby23@hardworxgym.com", "href": "mailto:Manager.shelby23@hardworxgym.com" },
+      "hours_title": "Staffed Hours",
+      "hours": [
+        ["Mon", "10:00 am – 08:00 pm"], ["Tue", "10:00 am – 08:00 pm"], ["Wed", "10:00 am – 08:00 pm"],
+        ["Thu", "10:00 am – 08:00 pm"], ["Fri", "10:00 am – 03:00 pm"], ["Sat", "Closed"], ["Sun", "Closed"]
+      ],
+      "form": {
+        "title": "Questions? Send Us A Message!",
+        "fields": [
+          { "label": "Name", "type": "text", "required": false },
+          { "label": "Email*", "type": "email", "required": true },
+          { "label": "Message", "type": "textarea", "placeholder": "Message", "required": false }
+        ],
+        "buttons": ["Send", "Cancel"],
+        "notice": "This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.",
+        "notice_links": { "Privacy Policy": "https://policies.google.com/privacy", "Terms of Service": "https://policies.google.com/terms" }
+      }
+    }
+  ],
+
+  "social": [
+    { "label": "Facebook", "href": "https://www.facebook.com/157624977437391" },
+    { "label": "Instagram", "href": "https://www.instagram.com/hardworxgym" }
+  ],
+
+  "footer": {
+    "copyright": "Copyright © 2023 HardWorx - All Rights Reserved.",
+    "links": [
+      { "text": "Purchase Membership Here!", "href": "https://exercise.hardworxgym.com/packages/54417/purchase/" },
+      { "text": "1-Month PIF Membership", "href": "https://exercise.hardworxgym.com/packages/27775/purchase/" },
+      { "text": "12-Month PIF!", "href": "https://exercise.hardworxgym.com/packages/46686/purchase/" }
+    ],
+    "platform_credit": "Powered by GoDaddy Airo (platform credit, dropped: the redesign is not on GoDaddy)"
+  },
+
+  "cookie_notice": {
+    "h4": "This website uses cookies.",
+    "p": "We use cookies to analyze website traffic and optimize your website experience. By accepting our use of cookies, your data will be aggregated with all other user data.",
+    "buttons": ["Decline", "Accept"]
+  },
+
+  "forms_inventory": [
+    "Contact form (About Us): Name, Email* (required), Message; Send / Cancel; reCAPTCHA notice",
+    "Product search (header): keywords"
+  ],
+
+  "typo_fixes": [
+    "Facilities: double space before 'Cold Plunge' collapsed to one",
+    "Reviews are customer-written and left exactly as posted (including 'an equipped')"
+  ]
+}
